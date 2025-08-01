@@ -1,0 +1,13 @@
+Leetcode Problems
+
+Beginner-Level LeetCode Problems (Warm-up)
+✅ Start with Easy difficulty:
+Two Sum – Arrays + basic loops
+
+Palindrome Number – If-else and string manipulation
+
+Fizz Buzz – Loops + conditionals
+
+Reverse Integer – Working with numbers
+
+Valid Anagram – Strings and dictionaries

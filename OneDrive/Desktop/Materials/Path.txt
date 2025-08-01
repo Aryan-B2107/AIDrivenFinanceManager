@@ -1,0 +1,21 @@
+Path
+
+
+ 🔧 Core Technical Topics (in order):
+
+1. **Python Programming** – loops, functions, file I/O, error handling
+2. **Pandas** – data analysis, cleaning, filtering, grouping
+3. **NumPy** – arrays, broadcasting, vectorized operations
+4. **Matplotlib & Seaborn** – data visualization
+5. **SQL** – queries, joins, subqueries, aggregations
+6. **Statistics & Probability** – mean, median, variance, distributions, Bayes' theorem
+7. **Linear Algebra** – vectors, matrices, dot product, eigenvalues
+8. **Scikit-learn** – regression, classification, clustering models
+9. **Jupyter Notebooks** – interactive coding for analysis
+10. **Data Preprocessing** – handling missing data, normalization, encoding
+11. **Model Evaluation** – accuracy, precision, recall, F1-score, confusion matrix
+12. **Git & GitHub** – version control and project sharing
+13. **Basic ML Theory** – bias-variance tradeoff, overfitting, underfitting
+14. **Capstone Projects** – real-world datasets with end-to-end ML pipeline
+15. **Optional: Deep Learning (TensorFlow / PyTorch)** – if you finish the basics early
+
